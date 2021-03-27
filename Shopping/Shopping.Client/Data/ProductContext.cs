@@ -57,7 +57,7 @@ namespace Shopping.Client.Data
             },
             new Product
             {
-                Name = "LG G7",
+                Name = "LG G9",
                 Description = "This is the best lg",
                 ImageFile = "product-6.png",
                 Price = 350.00M,
